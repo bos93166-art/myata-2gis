@@ -1,0 +1,46 @@
+id;name;price;category;description;picture;available;currencyId
+985385400000;Чай Имбирь-облепиха, 1 л;1200;Чайная карта;;;В наличии;RUB
+985385400001;Чай Малина-базилик, 1 л;1200;Чайная карта;;;В наличии;RUB
+985385400002;Чай Марокканский, 1 л;1200;Чайная карта;;;В наличии;RUB
+985385400003;Раф;420;Кофе;;;В наличии;RUB
+985385400004;Латте;370;Кофе;;;В наличии;RUB
+985385400005;Капучино;370;Кофе;;;В наличии;RUB
+985385400006;Флэт Уайт;350;Кофе;;;В наличии;RUB
+985385400007;Американо;310;Кофе;;;В наличии;RUB
+985385400008;Эспрессо;290;Кофе;;;В наличии;RUB
+985385400009;Сырные палочки с брусничным соусом;660;Закуски;;https://avatars.mds.yandex.net/get-sprav-products/4078836/2a0000019b22cba4c56384d6b3ed56f7fc7b/XXL;В наличии;RUB
+985385400010;Гренки с чесночным соусом;540;Закуски;;https://avatars.mds.yandex.net/get-sprav-products/2791887/2a0000019b22c9b659161fa5db0fa40f6096/XXL;В наличии;RUB
+985385400011;Попкорн креветки;1180;Закуски;;https://avatars.mds.yandex.net/get-sprav-products/13672565/2a0000019b22c831d4922638a5f5c5884181/XXL;В наличии;RUB
+985385400012;Попкорн курица;620;Закуски;;https://avatars.mds.yandex.net/get-sprav-products/4322053/2a0000019b22c940d7d46346ea45eb845b2c/XXL;В наличии;RUB
+985385400013;Брускетта ростбиф;960;Закуски;;https://avatars.mds.yandex.net/get-sprav-products/17700615/2a0000019b22c7d0cc758feac00b5e4f15a3/XXL;В наличии;RUB
+985385400014;Брускетта лосось;960;Закуски;;https://avatars.mds.yandex.net/get-sprav-products/13852611/2a0000019b22c74a2a1294b9a1255d8210eb/XXL;В наличии;RUB
+985385400015;Баклажаны с фета и томатами;980;Салат;;https://avatars.mds.yandex.net/get-sprav-products/4079840/2a0000019b22c6a0d006f0a222960e6d1ffa/XXL;В наличии;RUB
+985385400016;Руккола с ростбифом;1360;Салат;;https://avatars.mds.yandex.net/get-sprav-products/13944716/2a0000019b22cbfd19b137629e91f8037e1d/XXL;В наличии;RUB
+985385400017;Греческий салат;980;Салат;;https://avatars.mds.yandex.net/get-sprav-products/4322053/2a0000019b22c60c936be9c899d8bb44a92b/XXL;В наличии;RUB
+985385400018;Цезарь курица;980;Салат;;https://avatars.mds.yandex.net/get-sprav-products/2805495/2a0000019b22c4cc56ba7ded45dba8c33e69/XXL;В наличии;RUB
+985385400019;Цезарь креветка;1350;Салат;;;В наличии;RUB
+985385400020;Овощи гриль;790;Первые блюда;;https://avatars.mds.yandex.net/get-sprav-products/13852611/2a0000019b22ca7d3814a97e63c64dbdfe3f/XXL;В наличии;RUB
+985385400021;Рис с овощами;360;Первые блюда;;https://avatars.mds.yandex.net/get-sprav-products/13672565/2a0000019b22c3ac441e924814431930b4f9/XXL;В наличии;RUB
+985385400022;Картофельное пюре;450;Первые блюда;;https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019b22c2d15acc1adee7d7a9e462bd/XXL;В наличии;RUB
+985385400023;Картофель по-деревенски;420;Первые блюда;;https://avatars.mds.yandex.net/get-sprav-products/2790747/2a0000019b22c2632ea09f82d62334ff91a4/XXL;В наличии;RUB
+985385400024;Картофель фри;420;Первые блюда;;https://avatars.mds.yandex.net/get-sprav-products/4079840/2a0000019b22c210f3fb380e9cdde135aab9/XXL;В наличии;RUB
+985385400025;Бифштекс с брокколи и ореховым соусом;1040;Горячие блюда;;https://avatars.mds.yandex.net/get-sprav-products/4079840/2a0000019b22c0311546a8b94c4b6eabb78e/XXL;В наличии;RUB
+985385400026;Свиные рёбрышки BBQ;1040;Горячие блюда;;https://avatars.mds.yandex.net/get-sprav-products/2413620/2a0000019b22c09eba15fb53d91f776da2d1/XXL;В наличии;RUB
+985385400027;Шницель миланский;1680;Горячие блюда;;https://avatars.mds.yandex.net/get-sprav-products/3912342/2a0000019b22c1aefba8434ec14917d81c21/XXL;В наличии;RUB
+985385400028;Бефстроганов с пюре;1180;Горячие блюда;;https://avatars.mds.yandex.net/get-sprav-products/4322053/2a0000019b22bfdd5c93f14264e24642c6fc/XXL;В наличии;RUB
+985385400029;Бавет, 200 г;1900;Бургеры и шаурма;;;В наличии;RUB
+985385400030;Рибай, 100 г;1390;Бургеры и шаурма;;;В наличии;RUB
+985385400031;Миньон, 200 г;2300;Бургеры и шаурма;;;В наличии;RUB
+985385400032;Лингвини Морепродукты;1100;Паста;;https://avatars.mds.yandex.net/get-sprav-products/13852611/2a0000019b22ccf31c1a93b0314081d694fe/XXL;В наличии;RUB
+985385400033;Орзо Курица с грибами;810;Паста;;https://avatars.mds.yandex.net/get-sprav-products/3911103/2a0000019b22cd4816589bd5ba76086f9071/XXL;В наличии;RUB
+985385400034;Папарделле Карбонара;780;Паста;;https://avatars.mds.yandex.net/get-sprav-products/13852611/2a0000019b22ce04d65c94dcf6a1be2dac3d/XXL;В наличии;RUB
+985385400035;Феттучини Болоньезе;720;Паста;;https://avatars.mds.yandex.net/get-sprav-products/17700615/2a0000019b22ce42372634724bd4cf2cdd8c/XXL;В наличии;RUB
+985385400036;Бургер Цыплёнок и жюльен;780;Бургеры и шаурма;;https://avatars.mds.yandex.net/get-sprav-products/13944716/2a0000019b22cf55b36771f8cb833c779a04/XXL;В наличии;RUB
+985385400037;Бургер Вишня;990;Бургеры и шаурма;;https://avatars.mds.yandex.net/get-sprav-products/17700615/2a0000019b22cf957f061ed6bd6c6071d9b5/XXL;В наличии;RUB
+985385400038;Бургер Классика;960;Бургеры и шаурма;;https://avatars.mds.yandex.net/get-sprav-products/1540730/2a0000019b22d0091013de3c7b513f3c6651/XXL;В наличии;RUB
+985385400039;Том-ям;980;Первые блюда;;https://avatars.mds.yandex.net/get-sprav-products/17700615/2a0000019b22d03d643d18e8816cb35febe4/XXL;В наличии;RUB
+985385400040;Куриный;590;Первые блюда;;https://avatars.mds.yandex.net/get-sprav-products/13944716/2a0000019b22d06e6a0a381f2cf911cff10b/XXL;В наличии;RUB
+985385400041;Борщ;690;Первые блюда;;https://avatars.mds.yandex.net/get-sprav-products/2805495/2a0000019b22d0b26018903ba5bf12dea141/XXL;В наличии;RUB
+985385400042;Пицца Четыре сыра;1120;Пицца;;https://avatars.mds.yandex.net/get-sprav-products/13944716/2a0000019b22d1012f28d68ea79918a3cbe4/XXL;В наличии;RUB
+985385400043;Пицца Цезарь;1040;Пицца;;https://avatars.mds.yandex.net/get-sprav-products/13672565/2a0000019b22d1443047489589ba22765bad/XXL;В наличии;RUB
+985385400044;Пицца Пепперони;940;Пицца;;https://avatars.mds.yandex.net/get-sprav-products/2733259/2a0000019b22d18d1529280f507caf0d4b54/XXL;В наличии;RUB
