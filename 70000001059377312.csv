@@ -1,0 +1,52 @@
+id;name;price;category;description;picture;available;currencyId
+593773120000;Тирамису;700;Десерты;;;В наличии;RUB
+593773120001;Чизкейк шоколадный;500;Десерты;;;В наличии;RUB
+593773120002;Чизкейк классический;500;Десерты;;;В наличии;RUB
+593773120003;Ясуму чука;689;Роллы и суши;;https://avatars.mds.yandex.net/get-sprav-products/5567679/2a0000018fa2580cfe60cf820853ed1f6956/XXL;В наличии;RUB
+593773120004;Багамы;849;Роллы и суши;;https://avatars.mds.yandex.net/get-sprav-products/10118156/2a0000018fa2580e0687fe369546f50ce746/XXL;В наличии;RUB
+593773120005;Сет Макки;1609;Роллы и суши;;https://avatars.mds.yandex.net/get-sprav-products/5567679/2a0000018fa2580c72f8ee76e4ca4b2900e3/XXL;В наличии;RUB
+593773120006;Сет Сливочный;2399;Роллы и суши;;https://avatars.mds.yandex.net/get-sprav-products/10118156/2a0000018fa2580dbf3545020dc2f2585d66/XXL;В наличии;RUB
+593773120007;Сет Темпура;1729;Роллы и суши;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018edd3354f463329b99cef0a205ed/XXL;В наличии;RUB
+593773120008;Сет большой;3679;Роллы и суши;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018edd30554ed7e291f76bdf3f0f23/XXL;В наличии;RUB
+593773120009;Сливочный лосось;769;Роллы и суши;;https://avatars.mds.yandex.net/get-sprav-products/13852611/2a0000019adf423e0ecb0cf4b3588d361ea1/XXL;В наличии;RUB
+593773120010;Запеченный с креветкой;579;Роллы и суши;;https://avatars.mds.yandex.net/get-sprav-products/2757887/2a0000019adf430764ce3b705a2c6c642456/XXL;В наличии;RUB
+593773120011;Изуми;679;Роллы и суши;;https://avatars.mds.yandex.net/get-sprav-products/13059590/2a0000018fa2580b3e61555532307b57453a/XXL;В наличии;RUB
+593773120012;Сакана;639;Роллы и суши;;https://avatars.mds.yandex.net/get-sprav-products/10118156/2a0000018fa2580d74bb682c699b93e436f4/XXL;В наличии;RUB
+593773120013;Самурай;649;Роллы и суши;;https://avatars.mds.yandex.net/get-sprav-products/5567679/2a0000018fa2580dd7787998d1a0b7ef00c0/XXL;В наличии;RUB
+593773120014;Аляска;769;Роллы и суши;;https://avatars.mds.yandex.net/get-sprav-products/10324913/2a0000018fad1328a13cf8ee146ca4b91480/XXL;В наличии;RUB
+593773120015;Калифорния с лососем;829;Роллы и суши;;https://avatars.mds.yandex.net/get-sprav-products/5393394/2a0000018fa2580bbf4f20309407fd77325a/XXL;В наличии;RUB
+593773120016;Филадельфия;650;Роллы и суши;;https://avatars.mds.yandex.net/get-sprav-products/4078836/2a0000019adf4c3f358d7eb58d382169ff14/XXL;В наличии;RUB
+593773120017;Мидии в соусе дор блю;999;Горячие блюда;;https://avatars.mds.yandex.net/get-sprav-products/3911103/2a0000019adf44f5bf7e5efd6667665e2139/XXL;В наличии;RUB
+593773120018;Шашлык из свиной шеи;799;Горячие блюда;;;В наличии;RUB
+593773120019;Шашлык из куриного филе;759;Горячие блюда;;;В наличии;RUB
+593773120020;Люля-кебаб из баранины;859;Горячие блюда;;;В наличии;RUB
+593773120021;Люля-кебаб из говядины;859;Горячие блюда;;;В наличии;RUB
+593773120022;Лапша по-сингапурски с курицей и креветками;649;Горячие блюда;;;В наличии;RUB
+593773120023;Курица Кунг-Пао;599;Горячие блюда;;;В наличии;RUB
+593773120024;Поке с креветками;679;Салат;;;В наличии;RUB
+593773120025;Поке с угрём;739;Салат;;;В наличии;RUB
+593773120026;Поке с лососем;749;Салат;;;В наличии;RUB
+593773120027;Пицца Карбонара;719;Пицца;;https://avatars.mds.yandex.net/get-sprav-products/11530991/2a0000018edd2a33ec7d981b6a281a12c25c/XXL;В наличии;RUB
+593773120028;Пицца Баварская;899;Пицца;;https://avatars.mds.yandex.net/get-sprav-products/2733259/2a0000019adf47d86568bb80bd9e42a3d6ab/XXL;В наличии;RUB
+593773120029;Пицца Гавайская;749;Пицца;;https://avatars.mds.yandex.net/get-sprav-products/4079840/2a0000019adf482b1bb3e89a01b34c591d2f/XXL;В наличии;RUB
+593773120030;Пицца Жюльен;829;Пицца;;https://avatars.mds.yandex.net/get-sprav-products/3911103/2a0000019adf489c5d0a032c2774218b12fc/XXL;В наличии;RUB
+593773120031;Пицца 5 сыров;879;Пицца;;https://avatars.mds.yandex.net/get-sprav-products/17700615/2a0000019adf491e1b23ee29ca8d930e579a/XXL;В наличии;RUB
+593773120032;Пицца Двойная пепперони;869;Пицца;;https://avatars.mds.yandex.net/get-sprav-products/1521147/2a00000192ba0dd2263635a28c0ac9f55f06/XXL;В наличии;RUB
+593773120033;Пицца C морепродуктами;979;Пицца;;https://avatars.mds.yandex.net/get-sprav-products/20340178/2a0000019f41ffff10f223da0802e38079b8/XXL;В наличии;RUB
+593773120034;Тяхан с курицей;449;Горячие блюда;;https://avatars.mds.yandex.net/get-sprav-products/13672565/2a0000019adf519d0ff109a4bd06550f68b8/XXL;В наличии;RUB
+593773120035;Вок с креветками;579;Горячие блюда;;https://avatars.mds.yandex.net/get-sprav-products/4322053/2a0000019adf5184223fb6d683717ddb8721/XXL;В наличии;RUB
+593773120036;Феттуччине с лососем;799;Паста;;https://avatars.mds.yandex.net/get-sprav-products/2760763/2a0000019adf5121923c3310b3eb93a85082/XXL;В наличии;RUB
+593773120037;Карбонара;519;Паста;;https://avatars.mds.yandex.net/get-sprav-products/13059590/2a0000018edd11a300c4479dcb2f8f43a320/XXL;В наличии;RUB
+593773120038;Греческий с фетой;649;Салат;;;В наличии;RUB
+593773120039;Салат из баклажанов по-паназиатски;579;Салат;;https://avatars.mds.yandex.net/get-sprav-products/2773996/2a0000019adf506aee47bcc1235fbb92ea78/XXL;В наличии;RUB
+593773120040;Цезарь с курицей;639;Салат;;https://avatars.mds.yandex.net/get-sprav-products/13074932/2a0000018edd0abf15994bd588d903b72ec2/XXL;В наличии;RUB
+593773120041;Том ям;679;Первые блюда;;https://avatars.mds.yandex.net/get-sprav-products/13672565/2a0000019adf5011dfca5b8447c119eac98c/XXL;В наличии;RUB
+593773120042;Рыбный суп с красной икрой;579;Первые блюда;;https://avatars.mds.yandex.net/get-sprav-products/11530991/2a0000018edd12d64a258cc70616b6de1e8e/XXL;В наличии;RUB
+593773120043;Гренки бородинские с чесноком;349;Закуски;;;В наличии;RUB
+593773120044;Попкорн из креветок;779;Закуски;;https://avatars.mds.yandex.net/get-sprav-products/4079840/2a0000019adf4f8898c0cac5afdfbb8e06ad/XXL;В наличии;RUB
+593773120045;Чай Пряный Клюквенный;750;Чайная карта;;;В наличии;RUB
+593773120046;Чай Маракуйя-Малина;750;Чайная карта;;;В наличии;RUB
+593773120047;Чай Имбирный;750;Чайная карта;;;В наличии;RUB
+593773120048;Чай Облепиховый;750;Чайная карта;;;В наличии;RUB
+593773120049;Чай Марокканский;750;Чайная карта;;;В наличии;RUB
+593773120050;Чай Ягодный;750;Чайная карта;;;В наличии;RUB

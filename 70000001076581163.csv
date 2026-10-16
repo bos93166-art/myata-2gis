@@ -1,0 +1,138 @@
+id;name;price;category;description;picture;available;currencyId
+765811630000;Лимонад киви-тархун, 1000 мл;1100;Безалкогольные напитки;Сироп тархун, сироп киви, пюре киви, киви, лайм, содовая;;В наличии;RUB
+765811630001;Лимонад киви-тархун, 500 мл;550;Безалкогольные напитки;Сироп тархун, сироп киви, пюре киви, киви, лайм, содовая;;В наличии;RUB
+765811630002;Улун с яблоком и корицей, 1000 мл;1100;Чайная карта;Най сян, яблочный сок, сироп корица, яблоко, мята;;В наличии;RUB
+765811630003;Улун с яблоком и корицей, 500 мл;550;Чайная карта;Най сян, яблочный сок, сироп корица, яблоко, мята;;В наличии;RUB
+765811630004;Тайский чай, 1000 мл;1100;Чайная карта;Ассам, анчан, сироп блю кюрасао, апельсиновый сок, лимон, апельсин;;В наличии;RUB
+765811630005;Тайский чай, 500 мл;550;Чайная карта;Ассам, анчан, сироп блю кюрасао, апельсиновый сок, лимон, апельсин;;В наличии;RUB
+765811630006;Котлета в панировке с сыром и картофельным пюре, 370 г;930;Гарниры;Куриное филе, сыр креметта, картофельное пюре;;В наличии;RUB
+765811630007;Филе трески с овощами, 330 г;1080;Горячие блюда;Филе трески, моцарелла, томаты, картофель, грибы шампиньоны, сметана;;В наличии;RUB
+765811630008;Фетучини Альфредо с курицей и грибами, 305 г;890;Паста;Фетучини, куриное филе, грибы шампиньоны, сливки, пармезан, белое вино;;В наличии;RUB
+765811630009;Салат с маринованными грибами, 310 г;730;Салат;Опята маринованные, картофель, маринованные огурцы, красный лук, черри, маслины, руккола, лолло pocco;;В наличии;RUB
+765811630010;Грибной крем-суп, 350 г;680;Первые блюда;Грибы шампиньоны, сливки, картофель, репчатый лук, пармезан, чиабатта;;В наличии;RUB
+765811630011;Говядина с рисом по-азиатски, 340 г;1180;Горячие блюда;Говядина, болгарский перец, сельдерей, цуккини, репчатый лук, соус терияки, соевый соус, рис;;В наличии;RUB
+765811630012;Хрустящие шарики из моцареллы, 100 г;390;Закуски;;;В наличии;RUB
+765811630013;Джерки из индейки, 100 г;410;Закуски;;;В наличии;RUB
+765811630014;Джерки из курицы, 100 г;390;Закуски;;;В наличии;RUB
+765811630015;Джерки из свинины, 100 г;430;Закуски;;;В наличии;RUB
+765811630016;Ролл с крабом, 265 г;1100;Роллы и суши;;;В наличии;RUB
+765811630017;Курица в соусе карри с рисом, 390 г;850;Горячие блюда;;;В наличии;RUB
+765811630018;Филе куриной грудки, 165 г;640;Горячие блюда;;;В наличии;RUB
+765811630019;Лимонад Клубника - базилик, 1000 мл;1100;Безалкогольные напитки;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018f4e6b04d0cea7db4848c5112963/XXL;В наличии;RUB
+765811630020;Чай Тропический, 1000 мл;900;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/13059590/2a0000018f4e6548c93e743ce4cfee5a9e56/XXL;В наличии;RUB
+765811630021;Чай Тропический, 500 мл;500;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/13059590/2a0000018f4e6548c93e743ce4cfee5a9e56/XXL;В наличии;RUB
+765811630022;Батат фри с соусом блю чиз, 190 г;470;Гарниры;;https://avatars.mds.yandex.net/get-sprav-products/5567679/2a00000196115c2567923d080f28a26462ff/XXL;В наличии;RUB
+765811630023;Ролл Маки с лососем, 160 г;730;Роллы и суши;;https://avatars.mds.yandex.net/get-sprav-products/2781182/2a00000195ddba5e2765ad8a3a1192fa09c4/XXL;В наличии;RUB
+765811630024;Горячий ролл с угрём, 240 г;880;Роллы и суши;;https://avatars.mds.yandex.net/get-sprav-products/5567679/2a00000195ddb9fcec848615d41c61709e36/XXL;В наличии;RUB
+765811630025;Капрезе, 230 г;760;Салат;;https://avatars.mds.yandex.net/get-sprav-products/1643978/2a00000193e9f117f6fa118ab4f7f8ee2393/XXL;В наличии;RUB
+765811630026;Мясо по-французски, 380 г;1120;Горячие блюда;;https://avatars.mds.yandex.net/get-sprav-products/2781182/2a00000193e9edb5b98fd23917b8da580d49/XXL;В наличии;RUB
+765811630027;Салат с тунцом и яйцом пашот, 250 г;890;Салат;;https://avatars.mds.yandex.net/get-sprav-products/4079840/2a0000019277ac51ab15820828b554b2cba5/XXL;В наличии;RUB
+765811630028;Лимонад Ягодный, 1000 мл;1100;Безалкогольные напитки;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018f4e6b04d0cea7db4848c5112963/XXL;В наличии;RUB
+765811630029;Мохито, 450 мл;550;Безалкогольные напитки;;https://avatars.mds.yandex.net/get-sprav-products/1643978/2a0000019277a68d5924e662e684270c046e/XXL;В наличии;RUB
+765811630030;Мандарин - пихта, 450 мл;550;Безалкогольные напитки;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018f4e6f54ed8c71e58c2e63f9d0f4/XXL;В наличии;RUB
+765811630031;Ананас - лемонграсс, 450 мл;550;Безалкогольные напитки;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018f4e6fab2af80d6e0d21be457ca8/XXL;В наличии;RUB
+765811630032;Ежевика - гранат, 450 мл;550;Безалкогольные напитки;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018f4e6fc7dea2bf3a40b3e23075c1/XXL;В наличии;RUB
+765811630033;Филе лосось, 170 г;1490;Горячие блюда;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018f72a8fe6cc0453df3814e8c33b8/XXL;В наличии;RUB
+765811630034;Филе сибас, 170 г;1080;Горячие блюда;;https://avatars.mds.yandex.net/get-sprav-products/11530991/2a0000018f72a888106534c65a21e81b6013/XXL;В наличии;RUB
+765811630035;Филе дорадо, 170 г;1050;Горячие блюда;;https://avatars.mds.yandex.net/get-sprav-products/11530991/2a0000018f72a83b7375f0ef4494640acea7/XXL;В наличии;RUB
+765811630036;Стейк Рибай, 300 г;2900;Горячие блюда;;https://avatars.mds.yandex.net/get-sprav-products/13059590/2a0000018f11331b52522c6800e9976075ac/XXL;В наличии;RUB
+765811630037;Бефстроганов с картофельным пюре, 310 г;960;Горячие блюда;;https://avatars.mds.yandex.net/get-sprav-products/9896919/2a0000018f1125c96d19e8c5f53e989cb1d5/XXL;В наличии;RUB
+765811630038;Dausuz, 850 мл;700;Безалкогольные напитки;;https://avatars.mds.yandex.net/get-sprav-products/944742/2a000001924365ad7f01538cd9c6ff04473c/XXL;В наличии;RUB
+765811630039;Dausuz, 270 мл;400;Безалкогольные напитки;;https://avatars.mds.yandex.net/get-sprav-products/1521147/2a000001924365d64ef2e357d3f1fe28244f/XXL;В наличии;RUB
+765811630040;Borjomi, 400 мл;450;Безалкогольные напитки;;https://avatars.mds.yandex.net/get-sprav-products/1356083/2a00000192435f239373863162ae60ac4cb6/XXL;В наличии;RUB
+765811630041;Red bull / Red bull sugarfree, 250 мл;350;Безалкогольные напитки;;https://avatars.mds.yandex.net/get-sprav-products/2893106/2a00000192301264efa53ae40273aae1cc4d/XXL;В наличии;RUB
+765811630042;Coca-cola / Coca-cola Zero, 330 мл;350;Безалкогольные напитки;;https://avatars.mds.yandex.net/get-sprav-products/9896919/2a0000018e2dfcfb72c7c1d5265afa65fb48/XXL;В наличии;RUB
+765811630043;Милкшейк Банановый, 400 мл;600;Безалкогольные напитки;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018f4e6920088285f24ebbdd3da312/XXL;В наличии;RUB
+765811630044;Милкшейк Орео, 400 мл;600;Безалкогольные напитки;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018f4e6bda9d768a56241e9b0240f7/XXL;В наличии;RUB
+765811630045;Милкшейк Ваниль - миндаль, 400 мл;600;Безалкогольные напитки;;https://avatars.mds.yandex.net/get-sprav-products/13059590/2a0000018f4e69552948c5bbcb3d4ec6653c/XXL;В наличии;RUB
+765811630046;Милкшейк Клубничный, 400 мл;600;Безалкогольные напитки;;https://avatars.mds.yandex.net/get-sprav-products/13059590/2a0000018f4e6a660b5bbdcff92892a0a1da/XXL;В наличии;RUB
+765811630047;Фреш Грейпфрут, 200 мл;550;Безалкогольные напитки;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018f4e6994563eeac8dee28fb351b1/XXL;В наличии;RUB
+765811630048;Фреш Апельсин, 200 мл;500;Безалкогольные напитки;;https://avatars.mds.yandex.net/get-sprav-products/13059590/2a0000018f4e66983825fa1de1371de2cb93/XXL;В наличии;RUB
+765811630049;Лимонад Клубника - красный апельсин, 1000 мл;1100;Безалкогольные напитки;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018f4e6b04d0cea7db4848c5112963/XXL;В наличии;RUB
+765811630050;Лимонад Имбирь - лемонграсс, 1000 мл;1100;Безалкогольные напитки;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018f4e6acd00377967f465e2dcdb22/XXL;В наличии;RUB
+765811630051;Лимонад Манго - белый персик, 1000 мл;1100;Безалкогольные напитки;;https://avatars.mds.yandex.net/get-sprav-products/9896919/2a0000018f4e6b42a784a8fdabe9e7ae259b/XXL;В наличии;RUB
+765811630052;Лимонад Тропический, 1000 мл;1100;Безалкогольные напитки;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018f4e6b7802bafc417dcdc856b173/XXL;В наличии;RUB
+765811630053;Чай Облепиховый, 1000 мл;1100;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/13059590/2a0000018f4e66075b078290e0bb47737906/XXL;В наличии;RUB
+765811630054;Чай Марокканский, 1000 мл;1100;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/13059590/2a0000018f4e65d004d3ccb34cf5a8ba702f/XXL;В наличии;RUB
+765811630055;Чай Горячий цитрус, 1000 мл;1100;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018f4e64ffb57eb8789706612aa5ba/XXL;В наличии;RUB
+765811630056;Чай Лесные ягоды, 1000 мл;1100;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/13059590/2a0000018f4e6599089b44e9912fb6f46b67/XXL;В наличии;RUB
+765811630057;Чай Киви - маракуйя, 1000 мл;1100;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/13059590/2a0000018f4e6548c93e743ce4cfee5a9e56/XXL;В наличии;RUB
+765811630058;Чай Облепиховый, 500 мл;600;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/13059590/2a0000018f4e66075b078290e0bb47737906/XXL;В наличии;RUB
+765811630059;Чай Марокканский, 500 мл;600;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/13059590/2a0000018f4e65d004d3ccb34cf5a8ba702f/XXL;В наличии;RUB
+765811630060;Чай Горячий цитрус, 500 мл;600;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018f4e64ffb57eb8789706612aa5ba/XXL;В наличии;RUB
+765811630061;Чай Лесные ягоды, 500 мл;600;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/13059590/2a0000018f4e6599089b44e9912fb6f46b67/XXL;В наличии;RUB
+765811630062;Чай Киви - маракуйя, 500 мл;600;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/13059590/2a0000018f4e6548c93e743ce4cfee5a9e56/XXL;В наличии;RUB
+765811630063;Гречишный чай Ку Цяо, 1000 мл;900;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/10253960/2a0000019050703882e693047491d63bf445/XXL;В наличии;RUB
+765811630064;Чай Каркадэ (Гибискус), 1000 мл;900;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/10253960/2a0000019050703882e693047491d63bf445/XXL;В наличии;RUB
+765811630065;Иван-чай, 1000 мл;900;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/10253960/2a0000019050703882e693047491d63bf445/XXL;В наличии;RUB
+765811630066;Эрл Грей, 1000 мл;900;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/10253960/2a0000019050703882e693047491d63bf445/XXL;В наличии;RUB
+765811630067;Сенча, 1000 мл;900;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/10253960/2a0000019050703882e693047491d63bf445/XXL;В наличии;RUB
+765811630068;Золотой ассам, 1000 мл;900;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/10253960/2a0000019050703882e693047491d63bf445/XXL;В наличии;RUB
+765811630069;Гречишный чай Ку Цяо, 500 мл;500;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/5393394/2a000001905070c91b24eb3de3539219aafc/XXL;В наличии;RUB
+765811630070;Чай Каркадэ (Гибискус), 500 мл;500;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/5393394/2a000001905070c91b24eb3de3539219aafc/XXL;В наличии;RUB
+765811630071;Иван-чай, 500 мл;500;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/5393394/2a000001905070c91b24eb3de3539219aafc/XXL;В наличии;RUB
+765811630072;Эрл Грей, 500 мл;500;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/5393394/2a000001905070c91b24eb3de3539219aafc/XXL;В наличии;RUB
+765811630073;Сенча, 500 мл;500;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/5393394/2a000001905070c91b24eb3de3539219aafc/XXL;В наличии;RUB
+765811630074;Золотой ассам, 500 мл;500;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/5393394/2a000001905070c91b24eb3de3539219aafc/XXL;В наличии;RUB
+765811630075;Вишня - Шисо, 450 мл;550;Безалкогольные напитки;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018f4e69d4d9427bcd538893a23eea/XXL;В наличии;RUB
+765811630076;Фуджи Сакура, 450 мл;550;Безалкогольные напитки;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018f4e68d5d1266ed34c326c71f3ac/XXL;В наличии;RUB
+765811630077;Персик - молочный улун, 450 мл;550;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018f4e6f54ed8c71e58c2e63f9d0f4/XXL;В наличии;RUB
+765811630078;Манго - маракуйя, 450 мл;550;Безалкогольные напитки;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018f4e6fab2af80d6e0d21be457ca8/XXL;В наличии;RUB
+765811630079;Черника-лаванда, 450 мл;550;Безалкогольные напитки;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018f4e6fc7dea2bf3a40b3e23075c1/XXL;В наличии;RUB
+765811630080;Молочный Улун Най Сян;1200;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/5280674/2a00000190506f36b2b1d63b8c2e17627c0f/XXL;В наличии;RUB
+765811630081;Женьшень Улун Премиум;1200;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/5280674/2a00000190506f36b2b1d63b8c2e17627c0f/XXL;В наличии;RUB
+765811630082;Да Хун Пао;1200;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/5280674/2a00000190506f36b2b1d63b8c2e17627c0f/XXL;В наличии;RUB
+765811630083;Габа Али Шань;1200;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/5280674/2a00000190506f36b2b1d63b8c2e17627c0f/XXL;В наличии;RUB
+765811630084;Шен Пуэр Да Лун Шань;1200;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/5280674/2a00000190506f36b2b1d63b8c2e17627c0f/XXL;В наличии;RUB
+765811630085;Шу Пуэр Юндэ Тэ Цзи;1200;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/5280674/2a00000190506f36b2b1d63b8c2e17627c0f/XXL;В наличии;RUB
+765811630086;Бай Хао Инь Чжэнь;1200;Чайная карта;;https://avatars.mds.yandex.net/get-sprav-products/5280674/2a00000190506f36b2b1d63b8c2e17627c0f/XXL;В наличии;RUB
+765811630087;В ассортименте;450;Десерты;;;В наличии;RUB
+765811630088;Поке с угрем, 280 г;930;Поке и боулы;;https://avatars.mds.yandex.net/get-sprav-products/11939409/2a0000018e2e070715518f08a411181e200f/XXL;В наличии;RUB
+765811630089;Поке с лососем, 280 г;980;Поке и боулы;;https://avatars.mds.yandex.net/get-sprav-products/5393394/2a0000018e2e06eec230a7c2846da93e7050/XXL;В наличии;RUB
+765811630090;Поке с креветками, 280 г;890;Поке и боулы;;https://avatars.mds.yandex.net/get-sprav-products/11939409/2a0000018e2e06ceb9076b2ecdf3b6e2fab6/XXL;В наличии;RUB
+765811630091;Поке с морскими гребешками, 280 г;860;Поке и боулы;;https://avatars.mds.yandex.net/get-sprav-products/11939409/2a0000018e2e0694afc3db2deed99e6de5df/XXL;В наличии;RUB
+765811630092;Чипсы (Pringles), 60 г;380;Закуски;;https://avatars.mds.yandex.net/get-sprav-products/2899371/2a0000019277ac0b9bb6085a0930e6f89715/XXL;В наличии;RUB
+765811630093;Арахис, 100 г;320;Закуски;;https://avatars.mds.yandex.net/get-sprav-products/5280674/2a00000190507c2834b2e81e5633e4182656/XXL;В наличии;RUB
+765811630094;Фисташки, 100 г;430;Закуски;;https://avatars.mds.yandex.net/get-sprav-products/5393394/2a00000190507c1655d9cb70496f787c0aec/XXL;В наличии;RUB
+765811630095;Кешью в специях, 100 г;390;Закуски;;https://avatars.mds.yandex.net/get-sprav-products/5392818/2a00000190507bfd0b928df159b63c50dea3/XXL;В наличии;RUB
+765811630096;Норвежская уха, 390 г;860;Первые блюда;;https://avatars.mds.yandex.net/get-sprav-products/1540730/2a00000195ddbaed17d75ba434380226ec89/XXL;В наличии;RUB
+765811630097;Птитим с лососем, 270 г;980;Паста;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018f112be67de58ee73ef366fa873b/XXL;В наличии;RUB
+765811630098;Птитим с морскими гребешками, 270 г;860;Паста;;https://avatars.mds.yandex.net/get-sprav-products/11939409/2a0000018e2e077331ec41a8d35a526ddbf4/XXL;В наличии;RUB
+765811630099;Фетучини с морепродуктами в сливочном соусе, 320 г;940;Паста;;https://avatars.mds.yandex.net/get-sprav-products/9896919/2a0000018e2dfdebc9ae75a20f35e3ec6510/XXL;В наличии;RUB
+765811630100;Лингвини с креветками в соусе песто, 290 г;890;Паста;;https://avatars.mds.yandex.net/get-sprav-products/5234963/2a0000018e2dfe0cca5bdbdef34f2922c8cf/XXL;В наличии;RUB
+765811630101;Спагетти карбонара, 340 г;830;Паста;;https://avatars.mds.yandex.net/get-sprav-products/11939409/2a0000018e2e04d0eef4b9314e6987b1dd0c/XXL;В наличии;RUB
+765811630102;Картофельное пюре с пармезаном, 160 г;410;Гарниры;;https://avatars.mds.yandex.net/get-sprav-products/5234963/2a0000018f11284c4ebb2f118245bdc165b2/XXL;В наличии;RUB
+765811630103;Медальоны из говядины с пюре и грибами, 330 г;1680;Горячие блюда;;https://avatars.mds.yandex.net/get-sprav-products/13074932/2a0000018f112989b03db737dc213d9f0d6b/XXL;В наличии;RUB
+765811630104;Стейк скерт с овощами гриль, 260 г;1450;Горячие блюда;;https://avatars.mds.yandex.net/get-sprav-products/13059590/2a0000018f1130f41f10f237a19abd84a844/XXL;В наличии;RUB
+765811630105;Курица Кацу с картофельным пюре, 290 г;860;Горячие блюда;;https://avatars.mds.yandex.net/get-sprav-products/11939409/2a0000018e2dfd94f2d9ed356ed2eaf4b0dd/XXL;В наличии;RUB
+765811630106;Стейк филе миньон, 300 г;2400;Горячие блюда;;https://avatars.mds.yandex.net/get-sprav-products/13059590/2a0000018f1131b032cb381b136df68c5bfe/XXL;В наличии;RUB
+765811630107;Пицца Цыпленок барбекю, 500 г;960;Пицца;;https://avatars.mds.yandex.net/get-sprav-products/5234963/2a0000018e2e05b762cdcf2de394bf68b85b/XXL;В наличии;RUB
+765811630108;Пицца Пепперони, 460 г;910;Пицца;;https://avatars.mds.yandex.net/get-sprav-products/11939409/2a0000018e2e05818d87234a7829d842f3da/XXL;В наличии;RUB
+765811630109;Бургер Кинг сайз, 500 г;1290;Бургеры и шаурма;;https://avatars.mds.yandex.net/get-sprav-products/11939409/2a0000018e2dfbd465b434817ac0229fcdde/XXL;В наличии;RUB
+765811630110;Чикен бургер, 320 г;860;Бургеры и шаурма;;https://avatars.mds.yandex.net/get-sprav-products/5234963/2a0000018e2e0a3b8af82c50757235c355d5/XXL;В наличии;RUB
+765811630111;Чизбургер, 345 г;890;Бургеры и шаурма;;https://avatars.mds.yandex.net/get-sprav-products/5234963/2a0000018e2e0a1cbd21b51a769fadfa5edd/XXL;В наличии;RUB
+765811630112;Брускетта с лососем, 140 г;940;Закуски;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018f112627911b06445f75e177e895/XXL;В наличии;RUB
+765811630113;Брускетта с ростбифом, 150 г;790;Закуски;;https://avatars.mds.yandex.net/get-sprav-products/13074932/2a0000018f112654808526cfb19241ce363c/XXL;В наличии;RUB
+765811630114;Брускетта с вялеными томатами и страчателлой, 130 г;620;Закуски;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018f1124d1991e4afbc7c63f28739f/XXL;В наличии;RUB
+765811630115;Ролл Канадский с угрем, 220 г;980;Роллы и суши;;https://avatars.mds.yandex.net/get-sprav-products/11939409/2a0000018e2dfcb8a61bda16299e01c5b942/XXL;В наличии;RUB
+765811630116;Салат овощной, 260 г;610;Салат;;https://avatars.mds.yandex.net/get-sprav-products/10118156/2a0000018f112b3442259089ba39815010ed/XXL;В наличии;RUB
+765811630117;Салат с ростбифом, 225 г;980;Салат;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018f112ce47e5a44a15f4c170e9180/XXL;В наличии;RUB
+765811630118;Теплый салат с баклажанами, 270 г;810;Салат;;https://avatars.mds.yandex.net/get-sprav-products/13074932/2a0000018f1133ebe78a2c483b5d97b70a7e/XXL;В наличии;RUB
+765811630119;Эспрессо, 40 мл;200;Кофе;;;В наличии;RUB
+765811630120;Раф-кофе, 350 мл;400;Кофе;;;В наличии;RUB
+765811630121;Латте, 350 мл;350;Кофе;;;В наличии;RUB
+765811630122;Двойной Эспрессо, 80 мл;300;Кофе;;;В наличии;RUB
+765811630123;Двойной Капучино, 400 мл;450;Кофе;;;В наличии;RUB
+765811630124;Двойной Американо, 400 мл;350;Кофе;;;В наличии;RUB
+765811630125;Том ям с креветками, 500 г;960;Первые блюда;;https://avatars.mds.yandex.net/get-sprav-products/11939409/2a0000018e2e08c9121088ff0607a958bdf9/XXL;В наличии;RUB
+765811630126;Куриный суп с лапшой, 350 г;580;Первые блюда;;https://avatars.mds.yandex.net/get-sprav-products/11939409/2a0000018e2dfd3cd89e1e7e8c74475f9ede/XXL;В наличии;RUB
+765811630127;Борщ с говядиной и сметаной, 400 г;640;Первые блюда;;https://avatars.mds.yandex.net/get-sprav-products/10118156/2a0000018e2dfb97885e20733b9fbbe99703/XXL;В наличии;RUB
+765811630128;Цезарь с курицей, 240 г;780;Салат;;https://avatars.mds.yandex.net/get-sprav-products/13074932/2a0000018f1135d6d06601e29e5f43741171/XXL;В наличии;RUB
+765811630129;Цезарь с креветками, 220 г;830;Салат;;https://avatars.mds.yandex.net/get-sprav-products/13059590/2a0000018f1135f682a869f1534b95a151f7/XXL;В наличии;RUB
+765811630130;Филадельфия с лососем, 240 г;1080;Роллы и суши;;https://avatars.mds.yandex.net/get-sprav-products/11939409/2a0000018e2e095637a9612f8eabfbf65c2b/XXL;В наличии;RUB
+765811630131;Пицца с ветчиной и грибами, 500 г;890;Пицца;;https://avatars.mds.yandex.net/get-sprav-products/9896919/2a0000018e2e05531ae41be4b6cf4563733f/XXL;В наличии;RUB
+765811630132;Пицца 4 сыра, 450 г;910;Пицца;;https://avatars.mds.yandex.net/get-sprav-products/5234963/2a0000018e2e053d002af685353944c982ab/XXL;В наличии;RUB
+765811630133;Оливки/маслины, 100 г;520;Закуски;;https://avatars.mds.yandex.net/get-sprav-products/13074932/2a0000018f112b9ec06bf701317e704b96a0/XXL;В наличии;RUB
+765811630134;Овощи гриль, 220 г;490;Гарниры;;https://avatars.mds.yandex.net/get-sprav-products/13055270/2a0000018f1129c3be97d91bc49e5b8bca99/XXL;В наличии;RUB
+765811630135;Картофель фри с пармезаном и трюфельным маслом, 180 г;390;Гарниры;;https://avatars.mds.yandex.net/get-sprav-products/5234963/2a0000018e2e09e582a080b555bc5ea812a1/XXL;В наличии;RUB
+765811630136;Картофель по-деревенски, 180 г;390;Гарниры;;https://avatars.mds.yandex.net/get-sprav-products/11939409/2a0000018e2e064f52bb72b323b0cd686cb1/XXL;В наличии;RUB
